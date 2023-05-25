@@ -1,15 +1,10 @@
 <h1 text-align=center>Google Glass</h1>
 
 ## Descrição do Projeto
-Projeto de criação de pokedex, no qual foi utilizado um API PokéApi onde temos acesso a uma biblioteca de Pokemons, podendo tambem realizar pesquisas por nome ou numero.
+Tudo sobre o Google Glass é um site que tem como objetivo de mostrar e divulgar informações sobre o Google Glass de forma fácil e rápida.
 
 ## Status do Projeto
 > ✅ Finalizado
-
-## 🛠️ Funcionalidades e Demonstração da Aplicação
- Enciclopédia digital de espécies de Pokemons.
-
-
 
 ## Projeto
 ![01-index](https://github.com/karismasousa/cursoemvideo-html5/assets/106543715/5ae4ce1b-6897-448e-97ee-b5852ab78fe6)
